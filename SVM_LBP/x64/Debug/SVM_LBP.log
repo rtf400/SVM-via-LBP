@@ -1,0 +1,8 @@
+﻿  SVM_LBP.cpp
+c:\users\user\desktop\image processing\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\user\desktop\image processing\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\user\desktop\image processing\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\user\desktop\image processing\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\user\desktop\image processing\projects\170402\svm_lbp\svm_lbp\svm_lbp.cpp(147): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+  SVM_LBP.vcxproj -> C:\Users\USER\Desktop\Image Processing\projects\170402\SVM_LBP\x64\Debug\SVM_LBP.exe
+  SVM_LBP.vcxproj -> C:\Users\USER\Desktop\Image Processing\projects\170402\SVM_LBP\x64\Debug\SVM_LBP.pdb (Full PDB)
